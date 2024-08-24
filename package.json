@@ -1,8 +1,9 @@
 {
   "name": "array-prototype",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight TypeScript library that extends the native JavaScript Array prototype with additional utility methods.",
   "main": "lib/index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -25,5 +26,17 @@
     "methods"
   ],
   "author": "Miguel Zacca",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "lib": "lib"
+  },
+  "types": "./lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelzacca/array-prototype.git"
+  },
+  "bugs": {
+    "url": "https://github.com/miguelzacca/array-prototype/issues"
+  },
+  "homepage": "https://github.com/miguelzacca/array-prototype#readme"
 }
