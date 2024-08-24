@@ -7,7 +7,7 @@
 You can install the library using npm:
 
 ```bash
-npm install array-utilities
+npm install array-prototype
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install array-utilities
 Once installed, you can import and start using the extended array methods in your project:
 
 ```typescript
-import 'array-utilities'
+import 'array-prototype'
 
 const arr = [1, 2, 3, 3, 4, 5, 5]
 

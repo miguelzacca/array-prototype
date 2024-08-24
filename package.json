@@ -1,6 +1,6 @@
 {
   "name": "array-prototype",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lightweight TypeScript library that extends the native JavaScript Array prototype with additional utility methods.",
   "main": "lib/index.js",
   "type": "module",
